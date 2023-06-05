@@ -1,0 +1,70 @@
+table, td {
+	border:1px solid black;
+	}
+	table {
+		border-collapse:collapse;
+		}
+		
+	.verde{
+		color: green;
+	}
+	.amarillo{
+		color: rgb(203,156,6);
+	}
+	.morado{
+		color: rgb(147,16,222);
+	}
+	.rojo{
+		color: red;
+	}
+	.azul{
+		color: rgb(47,198,248);
+	}
+	.gris{
+		color: rgb(84,104,111);
+	}
+	.rosa{
+		color: pink;
+	}
+	.marron{
+		color: brown;
+	}
+	.azulo{
+		color: rgb(26,19,233);
+	}
+	.vf{
+		background-color: rgb(188,243,204);
+	}
+	.va{
+		background-color: rgb(239,243,188);
+	}
+	.vr{
+		background-color: rgb(236,181,181);
+	}
+		.verdeb{
+		background-color: rgb(199,234,197);
+	}
+	.amarillob{
+		background-color: rgb(245,243,173);
+	}
+	.moradob{
+		background-color: rgb(215,173,243);
+	}
+	.rojob{
+		background-color: rgb(245,173,173);
+	}
+	.azulb{
+		background-color: rgb(47,198,248);
+	}
+	.grisb{
+		background-color: rgb(228,231,231);
+	}
+	.rosab{
+		background-color: pink;
+	}
+	.marronb{
+		background-color: rgb(191,150,150);
+	}
+	.azulob{
+		background-color: rgb(175,173,245);
+	
